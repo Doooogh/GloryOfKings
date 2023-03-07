@@ -1,0 +1,4 @@
+server:
+  port: 8878
+  servlet:
+    context-path: gloryOfKings
