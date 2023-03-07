@@ -15,7 +15,8 @@ public class Hero implements Serializable {
 
         private String heroType;
 
-        private String description;
+        private String description1;
         private String description2;
+        private String description3;
 
 }
